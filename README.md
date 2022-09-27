@@ -1,5 +1,5 @@
 # hola-mundo
-Mi primer repocitorio de prueba
+Mi primer repositorio de prueba
 
 
 Autor: jose carlos
